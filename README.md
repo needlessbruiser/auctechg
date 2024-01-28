@@ -1,4 +1,4 @@
-# Racket Sports
+# Auc Tech
 
 This app provides a webview of [Auc Technologies](https://www.auctechnologies.com/).
 
